@@ -65,6 +65,6 @@ Register as a new user or log in if you already have an account.
 
 Submit assignments, view grades, and interact with the community.
 
-License
+Acknowledgments
 
-This project is licensed under the MIT License.
+This project was created as part of an educational assignment.
